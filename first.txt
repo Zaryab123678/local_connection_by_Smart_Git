@@ -1,4 +1,9 @@
 File changes and updation see and connection by smart git
+How are you
 
+<<<<<<< HEAD
 Changes done in this file for practise
 stash save
+=======
+stash save
+>>>>>>> origin/master
